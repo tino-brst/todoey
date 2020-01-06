@@ -4,7 +4,7 @@ import 'package:todoey/models/task.dart';
 
 class Tasks extends ChangeNotifier {
   List<Task> _list = [
-    Task('FInish reading testing guides'),
+    Task('Finish reading testing guides'),
     Task('Upload app to Github'),
   ];
 
